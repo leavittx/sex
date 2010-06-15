@@ -1,0 +1,9 @@
+This is the program "sex," a long-time orphaned program on the net.
+The original author is unknown and wasn't in the comments in the code.
+
+I've cleaned up a few things, written a manpage, reworked word wrapping, 
+and Mikhail Teterin has been kind enough to rewrite my messy Makefile into
+something reasonable.
+
+-- 
+   Nick Johnson

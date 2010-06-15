@@ -7,7 +7,7 @@
  * Orphan code cleaned up a bit by Nick Johnson <freebsd@spatula.net>
  * Completely rewrote how word wrapping works and added -w flag.
  * 
- * Russian language added by Lev Panov <lev.panov@gmail.comS>
+ * Russian language added by Lev Panov <lev.panov@gmail.com>
  */
 
 #include <stdio.h>
